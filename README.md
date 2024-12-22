@@ -4,18 +4,18 @@ Operator overloading, type conversion in C#
 ## Project structure
 ```
 .
-├── CarCatalogApp
-│   ├── CarCatalogApp.csproj
-│   └── Program.cs
-├── CurrencyConverterApp
-│   ├── CurrencyConverterApp.csproj
-│   └── Program.cs
-├── .gitignore
 ├── LICENSE
 ├── README.md
-└── VectorApp
-    ├── Program.cs
-    └── VectorApp.csproj
+└── src
+    ├── CarCatalogApp
+    │   ├── CarCatalogApp.csproj
+    │   └── Program.cs
+    ├── CurrencyConverterApp
+    │   ├── CurrencyConverterApp.csproj
+    │   └── Program.cs
+    └── VectorApp
+        ├── Program.cs
+        └── VectorApp.csproj
 ```
 
 ## License
